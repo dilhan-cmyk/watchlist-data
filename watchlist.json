@@ -6,12 +6,12 @@
       "chg": NaN,
       "sma20": NaN,
       "sma200": NaN,
-      "pe": 8.83,
-      "fpe": 3.16,
+      "pe": 9.28,
+      "fpe": 3.32,
       "peg": 0.16,
-      "rsiD": 35,
-      "rsiW": 39,
-      "rsiM": 56
+      "rsiD": 27,
+      "rsiW": 40,
+      "rsiM": 57
     },
     {
       "sym": "SNDK",
@@ -19,12 +19,12 @@
       "chg": NaN,
       "sma20": NaN,
       "sma200": NaN,
-      "pe": 6.45,
-      "fpe": 2.81,
+      "pe": 6.67,
+      "fpe": 2.89,
       "peg": 0.0,
-      "rsiD": 31,
+      "rsiD": 24,
       "rsiW": 37,
-      "rsiM": 50
+      "rsiM": 51
     },
     {
       "sym": "TSM",
@@ -32,12 +32,12 @@
       "chg": NaN,
       "sma20": NaN,
       "sma200": NaN,
-      "pe": 22.88,
-      "fpe": 15.1,
-      "peg": 0.72,
-      "rsiD": 36,
-      "rsiW": 37,
-      "rsiM": 55
+      "pe": 24.33,
+      "fpe": 16.05,
+      "peg": 0.64,
+      "rsiD": 26,
+      "rsiW": 41,
+      "rsiM": 58
     },
     {
       "sym": "SMH",
@@ -45,12 +45,12 @@
       "chg": NaN,
       "sma20": NaN,
       "sma200": NaN,
-      "pe": 24.17,
+      "pe": 25.05,
       "fpe": 0.0,
       "peg": 0.0,
-      "rsiD": 35,
-      "rsiW": 36,
-      "rsiM": 54
+      "rsiD": 26,
+      "rsiW": 38,
+      "rsiM": 56
     },
     {
       "sym": "ANET",
@@ -58,12 +58,12 @@
       "chg": NaN,
       "sma20": NaN,
       "sma200": NaN,
-      "pe": 42.67,
-      "fpe": 29.39,
-      "peg": 1.26,
-      "rsiD": 45,
-      "rsiW": 43,
-      "rsiM": 56
+      "pe": 45.79,
+      "fpe": 30.26,
+      "peg": 1.18,
+      "rsiD": 36,
+      "rsiW": 47,
+      "rsiM": 60
     }
   ]
 }
